@@ -1,2 +1,2 @@
 # My-first-Website
-I have hosted the site on github- https://agampipersenia.github.io/website/
+I have hosted the site on github- https://agampipersenia.github.io/Website/
