@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: "Courier New", Courier, monospace;
   box-sizing: border-box;
 }
 
@@ -127,8 +127,8 @@ nav ul li a:hover::before {
 #contact_email {
   background: linear-gradient(
       to right,
-      rgb(60, 36, 77),
-      rgb(60, 36, 77)
+      #050d10,
+      #050d10
     ),
     linear-gradient(
       to right,
@@ -155,8 +155,8 @@ nav ul li a:hover::before {
 #contact_linkedin {
   background: linear-gradient(
       to right,
-      rgb(60, 36, 77),
-      rgb(60, 36, 77)
+      #050d10,
+      #050d10
     ),
     linear-gradient(
       to right,
@@ -183,8 +183,8 @@ nav ul li a:hover::before {
 #contact_github {
   background: linear-gradient(
       to right,
-      rgb(60, 36, 77),
-      rgb(60, 36, 77)
+      #050d10,
+      #050d10
     ),
     linear-gradient(
       to right,
@@ -211,8 +211,8 @@ nav ul li a:hover::before {
 #contact_insta {
   background: linear-gradient(
       to right,
-      rgb(60, 36, 77),
-      rgb(60, 36, 77)
+      #050d10,
+      #050d10
     ),
     linear-gradient(
       to right,
@@ -225,3 +225,4 @@ nav ul li a:hover::before {
   background-repeat: no-repeat;
   transition: background-size 400ms;
 }
+
