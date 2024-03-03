@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Comfortaa", sans-serif;
   box-sizing: border-box;
 }
 
@@ -27,7 +27,7 @@ nav {
   flex-wrap: wrap;
 }
 
-.logo {
+.iitk-logo {
   width: 130px;
   margin-top:2%;
 }
@@ -63,15 +63,14 @@ nav ul li a:hover::before {
   transform-origin: left;
 }
 
-
-.header-text h1 {
+.homepage-text h1 {
   margin-top: 10%;
   font-size: 60px;
   color: aliceblue;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: "Comfortaa", sans-serif;
 }
 
-#element {
+#changing-text {
   font-size: 60px;
   color: rgb(43, 108, 141);
   font-weight: bold;
@@ -85,34 +84,33 @@ nav ul li a:hover::before {
   margin-top: -100px;
 }
 
-#heading {
-  font-size: 70px;
+#about-heading {
+  font-size: 60px;
   color: rgb(43, 108, 141);
-  font-weight: bold;
+  font-weight: 10000;
 }
 
-.aboutcontent{
+.about-content{
   font-size: 25px;
   color: whitesmoke;
 }
 
-#headcontact{
-  font-size: 50px;
+#contact-heading{
+  font-size: 60px;
   color: rgb(43, 108, 141);
-  font-weight: bold;
+  font-weight: 10000;
 }
 
-#if{
+#contact-content{
   font-size: 25px;
   color: whitesmoke;
 }
 
-.account{
+.contact-logo{
   display: inline-block;
   list-style: none;
   margin: 10px 20px;
 }
-
 
 #contact_email {
   color: aliceblue;
@@ -225,4 +223,3 @@ nav ul li a:hover::before {
   background-repeat: no-repeat;
   transition: background-size 400ms;
 }
-
